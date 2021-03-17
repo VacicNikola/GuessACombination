@@ -1,0 +1,41 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.WindowsDesktop">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Images\background.png" />
+    <None Remove="Images\background.png.jpg" />
+    <None Remove="Images\clubs.png" />
+    <None Remove="Images\diamonds.png" />
+    <None Remove="Images\hearts.png" />
+    <None Remove="Images\hoverJoker.png" />
+    <None Remove="Images\Joker.png" />
+    <None Remove="Images\Red.png" />
+    <None Remove="Images\spades.png" />
+    <None Remove="Images\Square.png" />
+    <None Remove="Images\star.png" />
+    <None Remove="Images\Yellow.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\GuessACombinationLibrary\GuessACombinationLibrary.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Images\background.png" />
+    <Resource Include="Images\clubs.png" />
+    <Resource Include="Images\diamonds.png" />
+    <Resource Include="Images\hearts.png" />
+    <Resource Include="Images\Joker.png" />
+    <Resource Include="Images\Red.png" />
+    <Resource Include="Images\spades.png" />
+    <Resource Include="Images\Square.png" />
+    <Resource Include="Images\star.png" />
+    <Resource Include="Images\Yellow.png" />
+  </ItemGroup>
+
+</Project>

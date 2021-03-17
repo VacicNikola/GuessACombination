@@ -1,0 +1,9 @@
+C:\Users\Nikola\Documents\Visual Studio 2019\MyProjects\WPF\GueesACombination\GuessACombination\GuessACombinationLibrary\bin\Debug\netstandard2.0\GuessACombinationLibrary.deps.json
+C:\Users\Nikola\Documents\Visual Studio 2019\MyProjects\WPF\GueesACombination\GuessACombination\GuessACombinationLibrary\bin\Debug\netstandard2.0\GuessACombinationLibrary.dll
+C:\Users\Nikola\Documents\Visual Studio 2019\MyProjects\WPF\GueesACombination\GuessACombination\GuessACombinationLibrary\bin\Debug\netstandard2.0\GuessACombinationLibrary.pdb
+C:\Users\Nikola\Documents\Visual Studio 2019\MyProjects\WPF\GueesACombination\GuessACombination\GuessACombinationLibrary\obj\Debug\netstandard2.0\GuessACombinationLibrary.AssemblyInfoInputs.cache
+C:\Users\Nikola\Documents\Visual Studio 2019\MyProjects\WPF\GueesACombination\GuessACombination\GuessACombinationLibrary\obj\Debug\netstandard2.0\GuessACombinationLibrary.AssemblyInfo.cs
+C:\Users\Nikola\Documents\Visual Studio 2019\MyProjects\WPF\GueesACombination\GuessACombination\GuessACombinationLibrary\obj\Debug\netstandard2.0\GuessACombinationLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Nikola\Documents\Visual Studio 2019\MyProjects\WPF\GueesACombination\GuessACombination\GuessACombinationLibrary\obj\Debug\netstandard2.0\GuessACombinationLibrary.dll
+C:\Users\Nikola\Documents\Visual Studio 2019\MyProjects\WPF\GueesACombination\GuessACombination\GuessACombinationLibrary\obj\Debug\netstandard2.0\GuessACombinationLibrary.pdb
+C:\Users\Nikola\Documents\Visual Studio 2019\MyProjects\WPF\GueesACombination\GuessACombination\GuessACombinationLibrary\obj\Debug\netstandard2.0\GuessACombinationLibrary.csprojAssemblyReference.cache
